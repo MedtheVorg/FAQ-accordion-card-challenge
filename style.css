@@ -48,7 +48,7 @@ main {
   border-radius: 30px;
   flex-basis: 60%;
   background-image: url(./images/illustration-woman-online-desktop.svg),
-    url(/images/bg-pattern-desktop.svg);
+    url(./images/bg-pattern-desktop.svg);;
   background-size: 50%, 100%;
   background-repeat: no-repeat;
   background-position: -5.5rem 4rem, -35rem 60%;
